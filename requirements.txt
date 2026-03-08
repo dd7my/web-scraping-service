@@ -1,0 +1,7 @@
+Flask==3.0.2
+Flask-Cors==4.0.0
+requests==2.31.0
+scrapling==0.2.1
+python-dotenv==1.0.1
+waitress==3.0.0
+pytest==8.0.2
